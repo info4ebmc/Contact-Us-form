@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<form action="https://<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -16,4 +16,9 @@
   </div>
 </form>
  </body>
-</html> 
+</html> /f/yourFormID" method="POST">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="email" name="email" placeholder="Your Email">
+  <textarea name="message" placeholder="Your Message"></textarea>
+  <button type="submit">Send</button>
+</form>
