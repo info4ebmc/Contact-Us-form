@@ -13,7 +13,8 @@
     <button class="fs-button" type="submit">Send</button>
   </div>
 </form>
-<script>
+<p id="form-status" style="display:none; color:green;>Thank you! Your messages has been sent.</p>
+  <script>
   const form = document.getElementById('contact-form');
   const status = document.getElementById('form-status');
 
