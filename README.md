@@ -21,7 +21,7 @@
     e.preventDefault();
     const data = new FormData(form);
     try {
-      const res = await fetch("https://formspree.io/f/yourFormID", {
+      const res = await fetch("https://formspree.io/f/xrbqbryo", {
         method: "POST",
         body: data,
         headers: { 'Accept': 'application/json' }
