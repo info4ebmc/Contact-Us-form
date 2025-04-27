@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<form action="https://<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -15,5 +15,3 @@
     <button class="fs-button" type="submit">Send</button>
   </div>
 </form>
- </body>
-</html> 
