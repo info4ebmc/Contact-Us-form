@@ -16,7 +16,7 @@
   </div>
 </form>
  </body>
-</html> /f/yourFormID" method="POST">
+</html> /f/xrbqbryo" method="POST">
   <input type="text" name="name" placeholder="Your Name">
   <input type="email" name="email" placeholder="Your Email">
   <textarea name="message" placeholder="Your Message"></textarea>
